@@ -1,0 +1,6 @@
+PROYECTO	poo
+PAQUETE		alquilervehiculos2
+CLASES		AlquierVehiculo.java
+		Main.java
+		Metodos.java
+		Precio.java
